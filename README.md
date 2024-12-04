@@ -22,12 +22,12 @@ Ensure you have a basic setup to view HTML files on your local machine:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bright-credit-payment.git
+   git clone https://github.com/ridsb/Bright_money_task.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd bright-credit-payment
+   cd Bright_money_task
    ```
 
 3. Open `index.html` in your preferred web browser to view the site locally.
